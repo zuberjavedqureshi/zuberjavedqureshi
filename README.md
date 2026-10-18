@@ -19,8 +19,6 @@ Source repositories for these projects are not currently linked here. Their desc
 | --- | --- |
 | [Currency Converter](https://github.com/zuberjavedqureshi/currency_converter) | GetX state management, HTTP API requests, JSON mapping, searchable selectors, and currency conversion |
 
-| [Flutter Counter Starter](https://github.com/zuberjavedqureshi/api_app) | Early practice with Material widgets, local state, and a counter widget test |
-
 These public samples are learning projects. Their READMEs describe their current scope and limitations.
 
 ## Focus
