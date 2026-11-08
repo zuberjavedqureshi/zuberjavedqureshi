@@ -30,17 +30,17 @@ I'm exploring Flutter Developer opportunities where I can contribute practical m
   <img src="https://skillicons.dev/icons?i=sqlite,apple,postman" />
 </p>
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zuberjavedqureshi&show_icons=true&theme=tokyonight&hide_border=true&title_color=0F766E&icon_color=0F766E" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuberjavedqureshi&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/zuberjavedqureshi?style=for-the-badge&color=0F766E&label=Followers" />
+  <img src="https://img.shields.io/github/stars/zuberjavedqureshi?style=for-the-badge&color=0F766E&label=Total%20Stars" />
 </p>
 
-## 📈 Contribution Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zuberjavedqureshi&theme=tokyo-night&hide_border=true&color=0F766E&line=0F766E" width="100%" />
+  <a href="https://github.com/zuberjavedqureshi?tab=repositories">
+    Explore my repositories →
+  </a>
 </p>
 
 ## Personal projects
