@@ -12,23 +12,23 @@ I'm exploring Flutter Developer opportunities where I can contribute practical m
 
 ## 🛠️ Tech Stack
 
-**Languages**
-- Dart
+**Languages & Frameworks**
 
-**Mobile Development**
-- Flutter, Android, iOS
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dart,flutter" />
+</p>
 
-**State Management**
-- Riverpod, Provider
+**Development Tools**
 
-**Backend & Integration**
-- REST APIs, JSON, Firebase
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,firebase" />
+</p>
 
-**Database & Storage**
-- SQLite, SharedPreferences
+**Other Technologies**
 
-**Tools & Platforms**
-- Git, GitHub, Android Studio, VS Code, Xcode, Google Play Console
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sqlite,apple,postman" />
+</p>
 
 ## Personal projects
 
