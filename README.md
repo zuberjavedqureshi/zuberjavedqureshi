@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/profile-banner.png" width="100%" alt="Zubair Qureshi - Flutter Developer">
+</p>
+
 # Hi, I'm Zubair Qureshi
 
 ### Flutter Developer · Dart · Mobile Applications
