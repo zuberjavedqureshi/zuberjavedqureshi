@@ -10,6 +10,26 @@ I build mobile applications with Flutter, with professional experience in courie
 
 I'm exploring Flutter Developer opportunities where I can contribute practical mobile development experience and continue strengthening application architecture and reliability.
 
+## 🛠️ Tech Stack
+
+**Languages**
+- Dart
+
+**Mobile Development**
+- Flutter, Android, iOS
+
+**State Management**
+- Riverpod, Provider
+
+**Backend & Integration**
+- REST APIs, JSON, Firebase
+
+**Database & Storage**
+- SQLite, SharedPreferences
+
+**Tools & Platforms**
+- Git, GitHub, Android Studio, VS Code, Xcode, Google Play Console
+
 ## Personal projects
 
 - **Text Toolkit** — a Flutter text utility app I develop and maintain.
